@@ -1,0 +1,5 @@
+flows:
+  1fa2a123-92c8-46b3-85c8-991ee38f79d8: {ver: 1, file: FromCsvToIbmMq.snapshot, comments: '',
+    author: anonymous, created: 1619099467161, flowName: FromCsvToIbmMq, flowDesc: ''}
+layoutVer: 1
+bucketId: 465a1e83-fd71-4dba-93d0-efe6860fdc9c
